@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47363290752",
+    "project_id": "crudfirebase-ffaed",
+    "storage_bucket": "crudfirebase-ffaed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47363290752:android:7fdcd208db9ae2dae35865",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfCgVQ_sHVRIir_2siNZmN76aVUu8-14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
